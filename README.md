@@ -1,5 +1,5 @@
 # CancerousPong
-It's a cancerous version of pong, what else? Name by Robert Hsu
+It's a cancerous version of pong, what else? Name by Robert Hsu  
 Run the JAR to play
 
 ### Warning -
